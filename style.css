@@ -6,3 +6,9 @@
     box-sizing: border-box;
     font-size: 100%;
   }
+ 
+/*Positioning*/
+
+.me{
+color: red;
+}
