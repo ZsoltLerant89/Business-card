@@ -39,14 +39,12 @@ body {
   max-width: 400px;
 }
 
-
-
 .k4{
   color:black
 }
 
 .k5{
-  color:bisque
+  color:black
 }
 
 .k6 {
@@ -86,9 +84,7 @@ li {
   margin-bottom: 20%;
 }
 
-#cme{
-  color:black
-}
+
 
 .from{
   color:black;
@@ -96,4 +92,5 @@ li {
 
 #what{
  margin-bottom: 2%;
+ margin-top: 0.5%;
 }
